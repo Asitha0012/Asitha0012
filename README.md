@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Asitha0012
+- 👋 Hi, I’m @Asitha_Kodithuwakku
 - 👀 I’m interested in Cloud computing, Telecommunication, AI/ML
 - 🌱 I’m currently studying at the Department of Electrical and Information Engineering at the University of Ruhuna
 - 💞️ I’m looking to collaborate on ...
