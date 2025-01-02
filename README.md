@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Asitha_Kodithuwakku
-- 👀 I’m interested in Cloud computing, Telecommunication, AI/ML
+- 👀 I’m interested in newest technologies including Cloud Computing, Telecommunication, AI/ML.
 - 🌱 I’m currently a 3rd year engineering undergraduate at the Department of Electrical and Information Engineering-University of Ruhuna
 - 📫 How to reach me: asithakodithuwakku2020@gmail.com
   
